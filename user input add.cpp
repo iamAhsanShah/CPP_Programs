@@ -12,5 +12,7 @@ int main()
 	cin>>valuetwo;
 	
 	cout<<valueone+valuetwo;
+	
+	return 0;
 }
 
