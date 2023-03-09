@@ -7,7 +7,6 @@ int main()
 	{
 		cout<<"This is always runing while"<<endl;
 	}
-
 }
 
 
