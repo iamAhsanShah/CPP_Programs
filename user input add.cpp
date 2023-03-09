@@ -4,6 +4,7 @@ int main()
 {
 	int valueone;
 	int valuetwo;
+	int valuethree;
 	
 	cout<<"Please enter value one";
 	cin>>valueone;
@@ -11,10 +12,12 @@ int main()
 	cout<<"Please enter value two";
 	cin>>valuetwo;
 	
-	cout<<valueone+valuetwo;
+	cout<<"Please enter value three";
+	cin>>valuethree;
+	
+	cout<<valueone+valuetwo+valuethree;
 	
 	return 0;
-	
-	//This code is from copy number second
+
 }
 
